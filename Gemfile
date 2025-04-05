@@ -2,10 +2,10 @@ source 'https://rubygems.org'
 
 gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
 # gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
-
+gem "jekyll-default-layout"
 gem "just-the-docs"
 # gem "just-the-docs"        # always download the latest release
-gem "jekyll-default-layout"
+
 
 
 
