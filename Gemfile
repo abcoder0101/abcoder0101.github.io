@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 4.4.1"
-gem "jekyll-default-layout"
-gem "just-the-docs"
+gem "jekyll", "~> 4.3.2"
+gem "just-the-docs", "~> 0.5.2"
